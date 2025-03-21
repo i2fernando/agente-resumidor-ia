@@ -1,0 +1,13 @@
+# Ignora ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Arquivo com a chave da OpenAI
+.env
+
+# Token de autenticação do Gmail
+token.json
+
+# Credenciais do Google
+credentials/
